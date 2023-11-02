@@ -158,5 +158,5 @@ chmod 755 /usr/local/bin/haxroomie
 echo -e "\n\e[32mHaxroomie-cli installed!\e[0m"
 
 echo -e "\n\e[32mFor usage instructions go to\e[0m"
-echo -e "https://github.com/morko/haxroomie/tree/master/packages/haxroomie-cli#cli-usage"
+echo -e "https://github.com/leohavoc155/haxroomie/tree/master/packages/haxroomie-cli#cli-usage"
 echo ""
